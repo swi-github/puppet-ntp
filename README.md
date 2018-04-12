@@ -1,0 +1,2 @@
+# puppet-ntp
+ntp module
